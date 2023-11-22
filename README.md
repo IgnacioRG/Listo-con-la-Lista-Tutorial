@@ -39,3 +39,6 @@ El tutorial ilustrará las mecánicas principales del juego (fase 1 y fase 2) ad
 
 ### 21-11-23
 Redaccion y analisis te estructura del juego y condiciones de victoria. Se creo el repositorio del proyecto, ademas se hicieron pruebas del funcionamiento del juego y se analizaron las caracteristicas de todos los niveles.
+
+### 22-11-23
+Se terminaron de hacer los assets necesarios para la explicación tutorial. También se creó la escena tutorial con los elementos para desplegar los mensajes. Se modificaron algunos assets para hacer diferente visualmente el tutorial. Se cambió el nombre de algunos assets no relacionados con el tutorial.
