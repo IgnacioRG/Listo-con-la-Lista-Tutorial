@@ -42,3 +42,6 @@ Redaccion y analisis te estructura del juego y condiciones de victoria. Se creo 
 
 ### 22-11-23
 Se terminaron de hacer los assets necesarios para la explicación tutorial. También se creó la escena tutorial con los elementos para desplegar los mensajes. Se modificaron algunos assets para hacer diferente visualmente el tutorial. Se cambió el nombre de algunos assets no relacionados con el tutorial.
+
+### 23-11-23
+Se termino de implementar el flujo del tutorial. Se cambio la distribucion de los elementos visuales del tutorial para resaltar mas la ilustracion y ocupar otros assets del juego. Tambien se cambiaron algunas descripciones con fines de claridad argumental y textual.
